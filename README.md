@@ -3,4 +3,4 @@ In this mini-project, I had built a weather app that takes a location from the u
 
 Simple weather app using HTML, CSS, and JavaScript
 
-![image](https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c))
+![image]https://github.com/atul-royals/Weather-App/blob/a958ea1c9754d0a134aac63272a16164d9e9f917/Screenshot.png))
